@@ -6,8 +6,8 @@ Varianta cu interfață grafică utilizator a problemei de la [Lab6-7](https://g
 
 Cerințe:
 
-https://www.cs.ubbcluj.ro/~istvanc/oop/lab/lab6_7.pdf
-https://www.cs.ubbcluj.ro/~istvanc/oop/lab/lab8_9.pdf
+- https://www.cs.ubbcluj.ro/~istvanc/oop/lab/lab10-11.pdf
+- https://www.cs.ubbcluj.ro/~istvanc/oop/lab/lab13-14.pdf
 
 **9 Închiriere mașini**
 
